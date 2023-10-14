@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 import java.util.UUID;
 
 @Data
-@Entity(name = "tabela_user")
+@Entity(name = "tabela_users")
 public class UserModel {
 
     @Id
